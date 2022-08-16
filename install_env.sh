@@ -1,0 +1,3 @@
+user=linkedINUsername
+pass=Password
+csvFile=nameOfCSVFile
